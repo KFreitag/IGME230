@@ -5,7 +5,7 @@
 *Sources
 *Project
 
-![general](https://KFreitag.github.com/230/media/generalplatformer.jpg)
+![general](https://github.com/KFreitag/IGME230/blob/master/media/generalplatformer.jpg)
 ## **Breif Game Overrule**
 Escape is a side scrolling platformer. Escape is 
 similar to the people game, Mario, where you 
@@ -21,7 +21,7 @@ it to the end of the level.
 *Sources
 *Project
 
-![jungle](https://www.google.com/search?q=jungle+platformer&rlz=1C1CHBF_enUS786US786&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-lZrizejdAhUOD60KHW6TAfEQ_AUIDigB&biw=1093&bih=526#imgrc=Y1TKFNG7dMENOM:)
+![jungle](https://github.com/KFreitag/IGME230/blob/master/media/jungleplatformer.jpg)
 ## **Game Overrule**
 Escape is a variant on the iconic game series 
 Mario Bros. It is a side scrolling 2D 
@@ -57,9 +57,9 @@ forward and backward. Use the Space Bar to jump.
 *__Sources__
 *Project
 ## **Images**
-![mainConcept](https://gamedevacademy.org/adding-enemies-to-a-html5-mario-style-platformer/)
-![jungle](https://www.google.com/search?q=jungle+platformer&rlz=1C1CHBF_enUS786US786&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-lZrizejdAhUOD60KHW6TAfEQ_AUIDigB&biw=1093&bih=526#imgrc=Y1TKFNG7dMENOM:)
-![general](https://www.google.com/search?rlz=1C1CHBF_enUS786US786&biw=1093&bih=486&tbm=isch&sa=1&ei=b9qzW9uLAdH0swX8mo3oCg&q=genral+platformer+concept&oq=genral+platformer+concept&gs_l=img.3...12962.14292..15347...0.0..0.96.640.7......1....1..gws-wiz-img.aNgqs_UvTWg#imgrc=L9pvaUc_FTkTtM:)
+![mainConcept](https://github.com/KFreitag/IGME230/blob/master/media/mainConcept.png)
+![jungle](https://github.com/KFreitag/IGME230/blob/master/media/jungleplatformer.jpg)
+![general](https://github.com/KFreitag/IGME230/blob/master/media/generalplatformer.jpg)
 ## **Citing**
 For the images I used in this project above, I 
 put links to each one on the image that leads to 
